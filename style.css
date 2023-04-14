@@ -1,0 +1,352 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #030303ee;
+    font-family: sans-serif;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-left: 30%;
+    margin-top: -30%;
+
+}
+li{
+    font-size: 18px ;
+    font-weight: 600;
+    color: #f3f7fbfd;
+    padding-right: 37px;
+}
+img[alt="logo"]{
+   float: left;
+   padding-left: 65px;
+   padding-top: 40px;
+}
+
+img[alt="mainImage"]{
+    height: 70vh;
+    width: 18vw;
+    }
+button{
+    color: white;
+    font-weight: 550;
+    background-color: #635f5f90;
+    padding: 8px 18px;
+    font-size: 18px;
+    border-radius: 16px;
+    margin-left: 10px;
+    margin-top: -8px;
+    box-shadow: 2px 2px 2px  #635f5f90;
+}  
+section{
+    color:  #e3dddde6;
+
+}
+.section1{
+    margin-left: 40%;
+    margin-right: 20%;
+    margin-top: 5%;
+}
+.section1a{
+    margin-left: 30%;
+    margin-top: 12px;
+    padding: 15px 20px;
+    background-color:   #827d7d25; 
+    height: 13px;
+    width: 220px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+}
+h1{ 
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+h3{
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+    font-weight: 800;
+}
+.para1{
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 23%;
+    line-height: 25px;
+    font-weight: 500;
+    color: rgba(222, 217, 217, 0.877);
+}
+.section2{
+    display: flex;
+    justify-content: center;
+}
+i[alt="apple"]{
+    padding: 30px 120px;
+    margin-top: 5%;
+    font-size: 21px;
+    
+}
+img[alt="specsLogo"]{
+    margin-left: 45%;
+    padding-top: 80px;
+}
+.section3a{
+    margin-left: 35% ;
+    line-height: 25px;
+    font-size: 15px;
+    font-weight: 540;
+}
+.section3a1{
+    padding-top: 35px;
+    margin-left: 20px;
+}
+.section3a2{
+    padding-top: 35px;
+    margin-left: -30px;
+}
+.section3a3{
+    padding-top: 35px;
+    margin-left: -45px;
+}
+.section3a4{
+    padding-top: 35px;
+    margin-left: -8px;
+}
+.section3b{
+    display: flex;
+    justify-content: center;
+    margin-left: 280px;
+    margin-top: -400px;
+    height: 400px;
+
+}
+img[alt="caseLogo"]{
+   margin-left: 45%;
+   padding-top: 100px;
+}
+img[alt="caseImage"]{
+    padding-top: 60px;
+    margin-left: 20%;
+    height: 330px;
+}
+.section4b{
+   margin-top: -280px;
+   margin-left: 45%;
+   line-height: 30px;
+   font-weight: 540;
+}
+.section4b1{
+    height: 30px;
+    width: 150px;
+    border-radius: 12px;
+    padding: 10px 20px;
+    background-color:  #827d7d25; 
+    margin-top: 20px;
+}
+.section5{
+    height: 450px;
+    width: 1250px;
+    background-color:  #3f3c3c3c; 
+    margin-top: 15%;
+    margin-left: 10%;
+    border-radius: 12px;
+}
+.section5a{
+   padding-top: 150px; 
+   line-height: 35px;
+   padding-left: 120px;
+   font-weight: 540;
+}
+.section5a1{
+    background-color: #000000d5;
+    height: 30px;
+    width: 150px;
+    border-radius: 12px;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+img[alt="buyNowSectionImage"]{
+    margin-left: 50%;
+    height: 300px;
+    width: 430px;
+    margin-top: -190px;
+}
+img[alt="productLogo"]{
+    margin-left: 40% ;
+   padding-top: 120px;
+
+}
+.section6a{
+    display: flex;
+    justify-content: center;
+
+}
+.section6a1{
+    height: 250px;
+    width: 210px;
+    background-color: #827d7d1c;
+    margin-top: 120px;
+    border-radius: 12px;
+    margin-right: 60px;
+}
+.section6a2{
+    height: 250px;
+    width: 210px;
+    background-color: #827d7d25;
+    margin-top: 120px;
+    border-radius: 12px;
+   
+}
+.section6b{
+    display: flex;
+    justify-content: center;
+    
+}
+.section6b1{
+    height: 250px;
+    width: 210px;
+    background-color: #827d7d25;
+    margin-top: 100px;
+    border-radius: 12px;
+    margin-right: 60px;
+}
+.section6b2{
+    height: 250px;
+    width: 210px;
+    background-color: #827d7d25;
+    margin-top: 100px;
+    border-radius: 12px;
+  
+}
+.section6c{
+    display: flex;
+    justify-content: center;
+    
+}
+.section6c1{
+    height: 240px;
+    width: 210px;
+    background-color: #827d7d25;
+    margin-top: 100px;
+    border-radius: 12px;
+    margin-right: 60px;
+}
+img[alt="headphone1"]{
+    height: 220px;
+    margin-top: -50px;
+    padding-left: 20px;
+   
+}
+img[alt="headphone2"]{
+    height: 220px;
+    margin-top: -50px;
+    padding-left: 20px;
+   
+}
+img[alt="headphone3"]{
+    height: 220px;
+    margin-top: -50px;
+    padding-left: 20px;
+   
+}
+img[alt="headphone4"]{
+    height: 220px;
+    margin-top: -50px;
+    padding-left: 20px;
+   
+}
+img[alt="headphone5"]{
+    height: 220px;
+    margin-top: -50px;
+    padding-left: 20px;
+   
+}
+p.para4{
+    margin-left: 50px;
+
+}
+.section7{
+    height: 300px;
+    width: 1450px;
+    background-color: #403e3e5f; 
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+img[alt="beatsLogo"]{
+    height: 30px;
+    width: 40px;
+    padding: 40px;
+}
+
+.section7a{
+    padding-top: 30px;
+    line-height: 35px;
+    margin-right: 100px;
+    margin-left: 50px;
+  
+}
+.section7b{
+    line-height: 35px;
+    padding-top: 30px;
+    margin-right: 50px;
+   
+    
+}
+.section7c{
+    height: 50px;
+    width: 150px;
+    margin-left: 150px;
+    padding-left: 20px;
+    padding-right: 120px;
+    background-color: #00000063;
+    margin-top: -150px; 
+    border-radius: 12px;
+
+}
+img[alt="rightArrow"]{
+    height: 15px;
+    padding: 8px;
+    margin-top: -20px;
+    margin-left: 100px;
+    display: inline;
+}
+.section7c1{
+    height: 20px;
+    width: 80px;
+    padding: 10px 30px;
+    margin-left: 100px;
+    border-radius: 16px;
+    background-color: #2321213c;
+    margin-top: -40px;
+    color: #bfb7b7dc;
+}
+.section7d{
+    margin-top: 200px;
+    display: flex;
+   justify-content: center;
+  
+}
+img[alt="facebook"]{
+    height: 38px;
+    margin-right: 20px;
+    
+}
+.para7{
+  margin-top: 12px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #8179797d;
+}
+.para6,.para5{
+    color: #bfb7b7dc;
+
+}
